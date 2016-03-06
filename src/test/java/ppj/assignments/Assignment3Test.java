@@ -1,6 +1,6 @@
+package ppj.assignments;
+
 import org.junit.Test;
-import ppj.assignments.Assignment3;
-import ppj.assignments.Assignment3Impl;
 
 import java.util.Arrays;
 import java.util.Collections;
